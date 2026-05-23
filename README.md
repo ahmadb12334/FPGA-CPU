@@ -1,4 +1,4 @@
-#CPU Design on FPGA
+# CPU Design on FPGA
 
 A simple CPU datapath designed in VHDL and implemented on a Cyclone II FPGA using Quartus II. This project demonstrates core digital design concepts including FSMs, ALUs, decoders, latches, and 7-segment displays.
 
